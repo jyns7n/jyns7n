@@ -1,5 +1,5 @@
  # 💫 About Me:
-Content Moderator who is transitioning into a Web Developer role. Over the past six months, I have dedicated myself to freelancing in the field of web development. In order to bolster my skills and expand my knowledge in this domain, I have enrolled in a comprehensive full-stack development bootcamp. I have been actively immersing myself in the latest and popular technologies such as React.js. My ultimate objective is to thoroughly equip myself for a successful and fulfilling career in web development.
+Content Moderator who is transitioning into a Web Developer role. Over the past six months, I have dedicated myself to freelancing in the field of web development. In order to bolster my skills and expand my knowledge in this domain, I have enrolled in a comprehensive full-stack development bootcamp. I have been actively immersing myself in the latest and popular technologies such as React.js. My ultimate objective is to thoroughly equip myself for fulfilling career in web development.
 
 
 ## 🌐 Socials:
