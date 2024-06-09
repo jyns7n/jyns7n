@@ -1,5 +1,5 @@
  # 💫 About Me:
-Hi
+I am a frontend developer specializing in building modern and interactive websites using Next.js. With a strong foundation in React.js, I focus on creating seamless user experiences and efficient, scalable web applications. I am passionate about staying current with the latest technologies and best practices, ensuring that every project I work on is not only visually appealing but also highly functional and optimized for the best user experience.
 
 
 ## 🌐 Socials:
